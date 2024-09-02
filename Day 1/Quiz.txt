@@ -1,0 +1,45 @@
+Quiz Question 1
+Q: What is a variable in Python?
+a) A way to store data
+b) A way to write comments
+c) A Python keyword
+d) None of the above
+
+Correct Answer: a) A way to store data
+
+Quiz Question 2
+Q: Which of the following is a valid variable name in Python?
+a) 1st_name
+b) first-name
+c) first_name
+d) first name
+
+Correct Answer: c) first_name
+
+Quiz Question 3
+Q: What is the output of the following code?
+   print(type(10))
+a) <class 'str'>
+b) <class 'int'>
+c) <class 'float'>
+d) <class 'bool'>
+
+Correct Answer: b) <class 'int'>
+
+Quiz Question 4
+Q: What is the symbol for division in Python?
+a) +
+b) -
+c) /
+d) *
+
+Correct Answer: c) /
+
+Quiz Question 5
+Q: Which function is used to get input from the user?
+a) output()
+b) input()
+c) print()
+d) scanf()
+
+Correct Answer: b) input()
