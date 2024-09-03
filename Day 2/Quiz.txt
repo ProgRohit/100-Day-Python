@@ -1,0 +1,45 @@
+Quiz Question 1
+Q: What does the upper() method do in Python?
+a) Converts a string to lowercase
+b) Converts a string to uppercase
+c) Returns the length of a string
+d) Finds a substring in a string
+
+Correct Answer: b) Converts a string to uppercase
+
+Quiz Question 2
+Q: Which of the following correctly slices a string s from the 3rd to the 7th character?
+a) s[2:7]
+b) s[3:7]
+c) s[2:6]
+d) s[3:6]
+
+Correct Answer: a) s[2:7]
+
+Quiz Question 3
+Q: What will be the output of the following code?
+print("Hello".lower())
+a) hello
+b) HELLO
+c) Hello
+d) Error
+
+Correct Answer: a) hello
+
+Quiz Question 4
+Q: How do you access the last character of a string s?
+a) s[0]
+b) s[-1]
+c) s[len(s)]
+d) s[1]
+
+Correct Answer: b) s[-1]
+
+Quiz Question 5
+Q: Which of the following is used to concatenate two strings s1 and s2?
+a) s1 + s2
+b) s1 - s2
+c) s1 * s2
+d) s1 / s2
+
+Correct Answer: a) s1 + s2
