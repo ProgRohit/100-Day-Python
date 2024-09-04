@@ -1,0 +1,46 @@
+Quiz Question 1
+Q: What does the replace() method do in Python?
+a) Removes all occurrences of a substring
+b) Replaces all occurrences of a substring with a new substring
+c) Counts the number of occurrences of a substring
+d) Splits a string into a list of substrings
+
+Correct Answer: b) Replaces all occurrences of a substring with a new substring
+
+Quiz Question 2
+Q: Which method is used to split a string into a list of words?
+a) split()
+b) join()
+c) replace()
+d) count()
+
+Correct Answer: a) split()
+
+Quiz Question 3
+Q: What will be the output of the following code?
+s = "Python programming"
+print(s.split())
+a) ['Python programming']
+b) ['Python', 'programming']
+c) ['Python programming', '']
+d) ['Python', 'programming', '']
+
+Correct Answer: b) ['Python', 'programming']
+
+Quiz Question 4
+Q: How can you format a string using f-strings in Python?
+a) By using the format() method
+b) By using the f'{}' syntax
+c) By using the join() method
+d) By using the replace() method
+
+Correct Answer: b) By using the f'{}' syntax
+
+Quiz Question 5
+Q: What does the .count() method do in Python?
+a) Counts the number of characters in a string
+b) Counts the number of occurrences of a specific substring in a string
+c) Counts the number of words in a string
+d) Joins a list of strings into a single string
+
+Correct Answer: b) Counts the number of occurrences of a specific substring in a string
