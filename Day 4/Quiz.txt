@@ -1,0 +1,82 @@
+Quiz Question 1
+Q: What is the output of the following code?
+for i in range(1, 6):
+    print('*' * i)
+a) *  
+   **  
+   ***  
+   ****  
+   *****  
+b) *  
+   *  
+   *  
+   *  
+   *  
+c) *****  
+   ****  
+   ***  
+   **  
+   *  
+d) Syntax error
+
+Correct Answer: a) *  
+                   **  
+                   ***  
+                   ****  
+                   *****  
+
+Quiz Question 2
+Q: Which loop would you use if you want to keep running until a condition is met, but you don't know how many iterations it will take?
+a) for loop
+b) while loop
+c) range loop
+d) Infinite loop
+
+Correct Answer: b) while loop
+
+Quiz Question 3
+Q: What is the purpose of the following line of code?
+fac *= i
+a) Adds i to fac
+b) Multiplies fac by i
+c) Divides fac by i
+d) None of the above
+
+Correct Answer: b) Multiplies fac by i
+
+Quiz Question 4
+Q: In Python, how would you print numbers from 1 to 10, excluding 10, using a while loop?
+a)
+i = 1  
+while i < 10:  
+    print(i)  
+    i += 1
+b)
+i = 0  
+while i < 10:  
+    print(i)  
+    i += 1
+c)
+i = 1  
+while i <= 10:  
+    print(i)  
+    i += 1
+d)
+i = 10  
+while i > 0:  
+    print(i)  
+    i -= 1
+
+Correct Answer: a) i = 1  
+                   while i < 10:  
+                       print(i)  
+                       i += 1
+
+Quiz Question 5
+Q: How would you calculate the factorial of a number using a loop in Python?
+a) Add all numbers from 1 to the given number
+b) Multiply all numbers from 1 to the given number
+c) Count the number of times a digit appears
+d) Use the range() function to get the factorial
+
+Correct Answer: b) Multiply all numbers from 1 to the given number
