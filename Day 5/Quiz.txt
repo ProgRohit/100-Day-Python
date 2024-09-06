@@ -1,0 +1,46 @@
+Quiz Question 1
+Q: What will be the output of the following code?
+   l = [10, 20, 30]
+   print(l[1])
+a) 10
+b) 20
+c) 30
+d) Index Error
+
+Correct Answer: b) 20
+
+Quiz Question 2
+Q: Which method is used to add an element to the end of a list?
+a) append()
+b) insert()
+c) extend()
+d) remove()
+
+Correct Answer: a) append()
+
+Quiz Question 3
+Q: How can you access the last element of a list?
+a) list[-1]
+b) list[0]
+c) list[len(list)]
+d) list[len(list) - 1]
+
+Correct Answer: a) list[-1], d) list[len(list) - 1]
+
+Quiz Question 4
+Q: What does the count() method do?
+a) Counts the number of elements in a list
+b) Counts occurrences of a specific value in a list
+c) Counts characters in a string
+d) None of the above
+
+Correct Answer: b) Counts occurrences of a specific value in a list
+
+Quiz Question 5
+Q: How do you remove the last item from a list?
+a) pop()
+b) remove()
+c) del
+d) clear()
+
+Correct Answer: a) pop()
