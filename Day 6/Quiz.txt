@@ -1,0 +1,50 @@
+Quiz Question 1
+Q: Which of the following statements correctly identifies an even number?
+a) if n % 2 == 1:
+b) if n % 2 == 0:
+c) if n % 2 != 0:
+d) if n % 2 > 0:
+
+Correct Answer: b) if n % 2 == 0:
+
+Quiz Question 2
+Q: What will be the output of the following code if a = 10, b = 15, and c = 12?
+    if a > b and a > c:
+        print(a)
+    elif b > a and b > c:
+        print(b)
+    else:
+        print(c)
+a) 10
+b) 15
+c) 12
+d) None
+
+Correct Answer: b) 15
+
+Quiz Question 3
+Q: Which condition is used to check if a number is zero?
+a) if n == 0:
+b) if n != 0:
+c) if n > 0:
+d) if n < 0:
+
+Correct Answer: a) if n == 0:
+
+Quiz Question 4
+Q: To determine if a year is a leap year, which condition is correct?
+a) if year % 100 == 0 and year % 400 != 0:
+b) if year % 400 == 0 or (year % 4 == 0 and year % 100 != 0):
+c) if year % 4 != 0 or year % 100 == 0:
+d) if year % 4 == 0 and year % 100 == 0:
+
+Correct Answer: b) if year % 400 == 0 or (year % 4 == 0 and year % 100 != 0):
+
+Quiz Question 5
+Q: How can you check if a specific word exists in a string?
+a) if word in s:
+b) if s.find(word) != -1:
+c) if word in s.split():
+d) if s.contains(word):
+
+Correct Answer: a) if word in s:
