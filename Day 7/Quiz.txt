@@ -1,0 +1,47 @@
+1. What will be the output of the following code?
+    s = "hello"
+    rev = s[::-1]
+    print(rev)
+a) "olleh"
+b) "hello"
+c) "eollh"
+d) Error
+
+Correct Answer: a) "olleh"
+
+2. Which method is used to convert a string to uppercase in Python?
+a) toUpper()
+b) upper()
+c) uppercase()
+d) convertToUpper()
+
+Correct Answer: b) upper()
+
+3. What is the output of the following code?
+    s = "racecar"
+    rev = ""
+    for char in s:
+        rev = char + rev
+    print(rev == s)
+a) True
+b) False
+c) Error
+d) None
+
+Correct Answer: a) True
+
+4. How many vowels are in the string "beautiful"?
+a) 3
+b) 4
+c) 5
+d) 7
+
+Correct Answer: c) 5
+
+5. Which of the following is the correct way to count the occurrences of a character 'a' in the string "banana"?
+a) s.count("a")
+b) count(s, "a")
+c) count("a", s)
+d) s.occurrences("a")
+
+Correct Answer: a) s.count("a")
