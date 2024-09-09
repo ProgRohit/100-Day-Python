@@ -1,0 +1,56 @@
+1. What will the following code print?
+    def greet(name="User"):
+        print(f"Hello, {name}!")
+    greet("Alice")
+    greet()
+a) Hello, Alice! and Hello, User!
+b) Hello, User! and Hello, Alice!
+c) Hello, Alice! and an error
+d) Hello, Alice! twice
+
+Correct Answer: a) Hello, Alice! and Hello, User!
+
+2. What will the following code output?
+    def multiply(a, b=3):
+        return a * b
+    result = multiply(5)
+    print(result)
+a) 15
+b) 8
+c) 3
+d) 5
+
+Correct Answer: a) 15
+
+3. What is the value of fact after running the following code?
+    def factorial(n):
+        if n == 0:
+            return 1
+        else:
+            return n * factorial(n - 1)
+    fact = factorial(3)
+a) 6
+b) 3
+c) 1
+d) 9
+
+Correct Answer: a) 6
+
+4. Which of the following is true about a function?
+a) A function can only return one value.
+b) A function must have at least one argument.
+c) A function can return multiple values.
+d) A function cannot have default arguments.
+
+Correct Answer: c) A function can return multiple values.
+
+5. What does the following code snippet do?
+    def square(n):
+        return n ** 2
+    print(square(4))
+a) Prints 8
+b) Prints 4
+c) Prints 16
+d) Prints 2
+
+Correct Answer: c) Prints 16
