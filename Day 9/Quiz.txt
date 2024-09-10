@@ -1,0 +1,43 @@
+1. What is the purpose of the break statement in a loop?
+a) To skip the current iteration and continue with the next one
+b) To exit the loop immediately
+c) To exit the program
+d) To restart the loop from the beginning
+
+Correct Answer: b) To exit the loop immediately
+
+2. What does the following code do?
+    list = [1, 2, 3, 4, 5]
+    even_list = [x for x in list if x % 2 == 0]
+a) Creates a list of all the odd numbers from lst
+b) Creates a list of all the even numbers from lst
+c) Creates a list of all the numbers greater than 2 from lst
+d) Creates a list of all the numbers less than 2 from lst
+
+Correct Answer: b) Creates a list of all the even numbers from lst
+
+3. Which method is used to sort a list in Python?
+a) sort()
+b) sorted()
+c) order()
+d) arrange()
+
+Correct Answer: a) sort()
+
+4. What is the output of the following code?
+    list = [10, 20, 30, 40]
+    print(list[1:3])
+a) [10, 20]
+b) [20, 30]
+c) [30, 40]
+d) [10, 30]
+
+Correct Answer: b) [20, 30]
+
+5. Which of the following statements is true about list comprehensions?
+a) They are used to create lists in a concise way
+b) They can only be used with numbers
+c) They cannot be nested
+d) They are slower than loops
+
+Correct Answer: a) They are used to create lists in a concise way
