@@ -1,0 +1,39 @@
+1. What is the default mode in which the open() function opens a file in Python?
+a) Write mode ('w')
+b) Append mode ('a')
+c) Read mode ('r')
+d) Read and write mode ('r+')
+
+Correct Answer: c) Read mode ('r')
+
+2. Which of the following modes will raise an error if the file already exists?
+a) 'r'
+b) 'w'
+c) 'x'
+d) 'a'
+
+Correct Answer: c) 'x'
+
+3. What happens if you open a file in 'w' mode?
+a) It appends data to the file.
+b) It reads data from the file.
+c) It overwrites the file if it exists, otherwise it creates a new file.
+d) It raises an error if the file exists.
+
+Correct Answer: c) It overwrites the file if it exists, otherwise it creates a new file.
+
+4. How do you ensure a file is properly closed after reading or writing in Python?
+a) Using the with statement
+b) Using the close() function
+c) Both a and b
+d) None of the above
+
+Correct Answer: c) Both a and b
+
+5. Which function would you use to read the entire content of a file into a string?
+a) file.write()
+b) file.read()
+c) file.readlines()
+d) file.split()
+
+Correct Answer: c) file.readlines()
