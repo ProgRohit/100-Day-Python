@@ -1,0 +1,39 @@
+1. Which mode should be used to read a file in Python?
+a) w
+b) a
+c) r
+d) x
+
+Correct Answer: c) r
+
+2. What does the with statement ensure when working with files?
+a) Automatic file deletion after use
+b) Proper file opening without errors
+c) Automatic file closure after the block is executed
+d) None of the above
+
+Correct Answer: c) Automatic file closure after the block is executed
+
+3. What happens if you open a file in 'w' mode that already exists?
+a) It throws an error
+b) It appends to the file
+c) It overwrites the file
+d) It reads the file
+
+Correct Answer: c) It overwrites the file
+
+4. Which of the following is used to append data to a file?
+a) r
+b) w
+c) a
+d) x
+
+Correct Answer: c) a
+
+5. What is the correct way to read all lines from a file?
+a) file.readlines()
+b) file.readlines()
+c) file.readline()
+d) file.read()
+
+Correct Answer: b) file.readlines()
