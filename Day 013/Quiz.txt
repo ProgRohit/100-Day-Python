@@ -1,0 +1,39 @@
+1. What is a class in Python?
+a) A method for creating a new variable
+b) A blueprint for creating objects
+c) A function for printing output
+d) A tool for storing data
+
+Correct Answer: b) A blueprint for creating objects
+
+2. What is the purpose of the __init__() method?
+a) To initialize an object's attributes
+b) To create a new object
+c) To print an object
+d) To modify an object's method
+
+Correct Answer: a) To initialize an object's attributes
+
+3. How do you create an instance of a class in Python?
+a) By calling the class name followed by parentheses
+b) By using the new keyword
+c) By calling the class's __init__() method directly
+d) By using the class keyword
+
+Correct Answer: a) By calling the class name followed by parentheses
+
+4. What is an attribute in a class?
+a) A variable that stores data in an object
+b) A method that defines the behavior of a class
+c) A function that prints an object
+d) A loop inside a class
+
+Correct Answer: a) A variable that stores data in an object
+
+5. Which of the following is true about methods in Python classes?
+a) Methods define the behavior of objects
+b) Methods are the same as attributes
+c) Methods can only be defined outside a class
+d) Methods cannot access object attributes
+
+Correct Answer: a) Methods define the behavior of objects
