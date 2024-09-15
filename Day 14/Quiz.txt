@@ -1,0 +1,39 @@
+1. What is inheritance in Python?
+a) The ability to create a new class from scratch
+b) The ability to create a new class by reusing code from an existing class
+c) The process of defining methods in a class
+d) The process of initializing an object
+
+Correct Answer: b) The ability to create a new class by reusing code from an existing class
+
+2. What does the super() function do?
+a) Calls a method from the child class
+b) Calls a method from the parent class
+c) Calls a method from any class
+d) Calls a method from a different module
+
+Correct Answer: b) Calls a method from the parent class
+
+3. Which of the following is true about method overriding?
+a) The child class cannot override methods from the parent class
+b) The parent class can override methods from the child class
+c) The child class can override methods from the parent class
+d) Methods cannot be overridden in Python
+
+Correct Answer: c) The child class can override methods from the parent class
+
+4. How do you inherit from a class in Python?
+a) By using the class keyword followed by the parent class name in parentheses
+b) By using the def keyword
+c) By using the new keyword
+d) By using the inherit keyword
+
+Correct Answer: a) By using the class keyword followed by the parent class name in parentheses
+
+5. What is the purpose of method overriding in inheritance?
+a) To prevent the child class from using the parent class’s methods
+b) To allow the child class to modify the behavior of the parent class’s methods
+c) To define new methods in the child class
+d) To call methods from another class
+
+Correct Answer: b) To allow the child class to modify the behavior of the parent class’s methods
