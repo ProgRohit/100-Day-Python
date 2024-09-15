@@ -1,4 +1,5 @@
-# Question: Create a Base Class for Employees and a Derived Class for Managers Task: Write a Python program with an Employee class that has attributes like name and salary, and a method to display them. Then, create a Manager class that inherits from Employee and adds an attribute for the department.
+# Question: Create a Base Class for Employees and a Derived Class for Managers Task: Write a Python program with an Employee class that has attributes
+# like name and salary, and a method to display them. Then, create a Manager class that inherits from Employee and adds an attribute for the department.
 
 class Employee:
     def __init__(self, name, salary):
