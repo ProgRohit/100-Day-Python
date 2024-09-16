@@ -1,0 +1,39 @@
+1. What is a module in Python?
+a) A single line of Python code
+b) A collection of Python files
+c) A file containing Python code, such as functions and classes
+d) A directory containing multiple Python files
+
+Correct Answer: c) A file containing Python code, such as functions and classes
+
+2. What is the purpose of the import statement in Python?
+a) To define a new function
+b) To create a new module
+c) To include the functionality of one module into another
+d) To initialize a package
+
+Correct Answer: c) To include the functionality of one module into another
+
+3. Which of the following is a built-in Python module?
+a) random
+b) numpy
+c) string_utils
+d) simple_math
+
+Correct Answer: a) random
+
+4. How do you import a function from a module?
+a) import function
+b) from module import function
+c) include function in module
+d) import module.function
+
+Correct Answer: b) from module import function
+
+5. What is the purpose of an __init__.py file in a package?
+a) To initialize the package
+b) To store global variables for the package
+c) To define the functions of the package
+d) To mark the directory as a Python package
+
+Correct Answer: d) To mark the directory as a Python package
